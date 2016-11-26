@@ -1,5 +1,7 @@
 # centos-serverspec-windows
 
+using https://hub.docker.com/r/josephkumarmichael/centos-serverspec-windows/ as base container
+
 # Build
 ```
 docker build -t centos-serverspec-windows-container .
