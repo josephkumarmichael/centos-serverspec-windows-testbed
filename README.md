@@ -1,4 +1,5 @@
 # centos-serverspec-windows
+[![Build Status](https://travis-ci.org/josephkumarmichael/centos-serverspec-windows-testbed.svg?branch=master)](https://travis-ci.org/josephkumarmichael/centos-serverspec-windows-testbed)
 
 using https://hub.docker.com/r/josephkumarmichael/centos-serverspec-windows/ as base container
 
