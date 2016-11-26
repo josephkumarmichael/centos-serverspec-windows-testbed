@@ -1,4 +1,5 @@
 # centos-serverspec-windows
+
 # Build
 ```
 docker build -t centos-serverspec-windows-container .
@@ -48,7 +49,7 @@ docker run -e CI_FLAG=true -e TARGET_HOST_USERNAME="username" -e TARGET_HOST_PAS
 ```
 Note:
 
-Report is created in ./reports folder with in the container
+Junit report (using rspec_junit_formatter) is created in ./reports folder with in the container
 
 ## Report
 
