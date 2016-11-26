@@ -74,5 +74,6 @@ Junit report (using rspec_junit_formatter) is created in ./reports folder with i
 
 1. https://github.com/mizzy/serverspec/blob/master/WINDOWS_SUPPORT.md
 2. https://github.com/WinRb/WinRM
-3. http://qiita.com/rk05231977/items/d4b05f7c92631be79d53
-4. http://qiita.com/o-hayato/items/f39d86ee171ec62a8a52
+3. https://github.com/sj26/rspec_junit_formatter
+4. http://qiita.com/rk05231977/items/d4b05f7c92631be79d53
+5. http://qiita.com/o-hayato/items/f39d86ee171ec62a8a52
